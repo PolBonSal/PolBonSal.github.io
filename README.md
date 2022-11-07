@@ -1,2 +1,1 @@
-# PolBonSal.github.io
-PolBonSal website
+PolBonSal information website
