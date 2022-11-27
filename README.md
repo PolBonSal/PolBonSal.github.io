@@ -4,7 +4,7 @@
 <h1>PolBonSal</h1>
 <p>Here I am going to post my stuff</p>
 
-<a href="www.linkedin.com/in/paul-timothée-bonnet-salvador-862629191">This is my linkedin</a>
+Access to my linkedin [Paul Linkedin](www.linkedin.com/in/paul-timothée-bonnet-salvador-862629191).
   
 <p>Theres being changes</p>
  
