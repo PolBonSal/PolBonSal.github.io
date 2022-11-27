@@ -8,5 +8,7 @@ Access to my linkedin [Paul Linkedin](https://www.linkedin.com/in/paul-timothée
   
 <p>Theres being changes</p>
  
+<a href="[url](https://www.linkedin.com/in/paul-timothée-bonnet-salvador-862629191)">My linked in</a>
+  
 </body>
 </html>
