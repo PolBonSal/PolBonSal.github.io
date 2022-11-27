@@ -6,7 +6,7 @@
 
 Access to my linkedin <a href="https://www.linkedin.com/in/paul-timothée-bonnet-salvador-862629191">My linked in</a>
   
-I can also write here a small paragraph
+<p>I can also write here a small paragraph<p>
   
   
 </body>
